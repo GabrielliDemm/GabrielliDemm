@@ -21,7 +21,7 @@
 
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="100" alt="Music" src="./Gabrielli/images/music.gif"> 
 </a>
 </p>
 
